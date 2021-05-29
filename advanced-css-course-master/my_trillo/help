@@ -1,0 +1,5 @@
+1. npm init
+2. npm install node-sass --save-dev
+3. npm install -g live-server
+4. live-server // run
+5. "scss": "node-sass --watch scss/main.scss -o css/style.css"
